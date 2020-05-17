@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.29)  17 MAY 2020 14:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.29)  17 MAY 2020 14:18
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
-**comments_on_podcasts_1ère.tex
-(./comments_on_podcasts_1ère.tex
+**comments_on_podcasts_term.tex
+(./comments_on_podcasts_term.tex
 LaTeX2e <2018-12-01>
 (c:/texlive/2019/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
@@ -2428,8 +2428,8 @@ Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 (c:/texlive/2019/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.te
 x)
 (c:/texlive/2019/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex
-))) (./comments_on_podcasts_1ère.aux)
-\openout1 = `comments_on_podcasts_1ère.aux'.
+))) (./comments_on_podcasts_term.aux)
+\openout1 = `comments_on_podcasts_term.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
@@ -2556,9 +2556,9 @@ LaTeX Info: Redefining \ref on input line 36.
 LaTeX Info: Redefining \pageref on input line 36.
 LaTeX Info: Redefining \nameref on input line 36.
 
-(./comments_on_podcasts_1ère.out) (./comments_on_podcasts_1ère.out)
+(./comments_on_podcasts_term.out) (./comments_on_podcasts_term.out)
 \@outlinefile=\write9
-\openout9 = `comments_on_podcasts_1ère.out'.
+\openout9 = `comments_on_podcasts_term.out'.
 
 \c@lstlisting=\count553
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
@@ -2613,9 +2613,7 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 
 
 AED: lastpage setting LastPage
-(c:/texlive/2019/texmf-dist/tex/latex/ucs/data/uni-0.def
-File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-) [1
+[1
 Non-PDF special ignored!
 <special> header=pstricks.pro
 Non-PDF special ignored!
@@ -2653,30 +2651,43 @@ Non-PDF special ignored!
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
 
-(./comments_on_podcasts_1ère.aux)
+(./comments_on_podcasts_term.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
-Package rerunfilecheck Info: File `comments_on_podcasts_1ère.out' has not chang
-ed.
-(rerunfilecheck)             Checksum: B608AC19E294B4E5B951378D8662E78F;243.
+
+
+Package rerunfilecheck Warning: File `comments_on_podcasts_term.out' has change
+d.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `comments_on_podcasts_term.out':
+(rerunfilecheck)             Before: B608AC19E294B4E5B951378D8662E78F;243
+(rerunfilecheck)             After:  B975A9C7D5C0622D1B7B38D8B0D2F267;249.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 67099 strings out of 492623
- 1409688 string characters out of 6133289
+ 66612 strings out of 492623
+ 1404631 string characters out of 6133289
  1982066 words of memory out of 5000000
- 69759 multiletter control sequences out of 15000+600000
+ 69274 multiletter control sequences out of 15000+600000
  591580 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,11n,111p,907b,846s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2019/texm
-f-dist/fonts/type1/public/fourier/fourier-ml.pfb><c:/texlive/2019/texmf-dist/fo
-nts/type1/adobe/utopia/putb8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/adobe
-/utopia/putr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplb8a.
-pfb>
-Output written on comments_on_podcasts_1ère.pdf (1 page, 48021 bytes).
+pdfTeX warning (dest): name{page.2} has been referenced but does not exist, r
+eplaced by a fixed one
+
+{c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2019/texmf-
+dist/fonts/type1/public/fourier/fourier-ml.pfb><c:/texlive/2019/texmf-dist/font
+s/type1/adobe/utopia/putb8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/adobe/u
+topia/putr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplb8a.pf
+b>
+Output written on comments_on_podcasts_term.pdf (1 page, 48324 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
+ 78 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
  141 words of extra memory for PDF output out of 10000 (max. 10000000)
 
